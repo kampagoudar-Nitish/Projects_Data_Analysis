@@ -1,0 +1,26 @@
+row_index,policy_id,issue_type,field,value,action,note
+59,POL00060,negative_claim_amount,claim_amount,-109279.58,flagged – not modified,Negative claim amount is not plausible; requires source verification before any treatment.
+63,POL00064,negative_claim_amount,claim_amount,-41374,flagged – not modified,Negative claim amount is not plausible; requires source verification before any treatment.
+146,POL00147,negative_claim_amount,claim_amount,-109721.26,flagged – not modified,Negative claim amount is not plausible; requires source verification before any treatment.
+164,POL00165,negative_claim_amount,claim_amount,-131700.73,flagged – not modified,Negative claim amount is not plausible; requires source verification before any treatment.
+24,POL00025,claim_exceeds_sum_insured,claim_amount / sum_insured,422655.283481522 / 321879.0,flagged – not modified,Claim amount exceeds policy sum insured. May indicate data entry error or reinsurance recovery. Decision on treatment rests with reviewer.
+28,POL00029,claim_exceeds_sum_insured,claim_amount / sum_insured,291637.7420676744 / 277274.0,flagged – not modified,Claim amount exceeds policy sum insured. May indicate data entry error or reinsurance recovery. Decision on treatment rests with reviewer.
+46,POL00047,claim_exceeds_sum_insured,claim_amount / sum_insured,373947.19367730623 / 257223.0,flagged – not modified,Claim amount exceeds policy sum insured. May indicate data entry error or reinsurance recovery. Decision on treatment rests with reviewer.
+115,POL00116,claim_exceeds_sum_insured,claim_amount / sum_insured,592438.4671876397 / 409660.0,flagged – not modified,Claim amount exceeds policy sum insured. May indicate data entry error or reinsurance recovery. Decision on treatment rests with reviewer.
+133,POL00134,claim_exceeds_sum_insured,claim_amount / sum_insured,421338.9551642716 / 398444.0,flagged – not modified,Claim amount exceeds policy sum insured. May indicate data entry error or reinsurance recovery. Decision on treatment rests with reviewer.
+138,POL00139,claim_exceeds_sum_insured,claim_amount / sum_insured,572116.6047984753 / 382204.0,flagged – not modified,Claim amount exceeds policy sum insured. May indicate data entry error or reinsurance recovery. Decision on treatment rests with reviewer.
+152,POL00153,claim_exceeds_sum_insured,claim_amount / sum_insured,98329.03637354354 / 88816.0,flagged – not modified,Claim amount exceeds policy sum insured. May indicate data entry error or reinsurance recovery. Decision on treatment rests with reviewer.
+9,POL00010,missing_premium,premium,,flagged – tagged with premium_status column,Missing premium. Imputation not applied without justification. Rows included in cleaned file with tag.
+26,POL00027,missing_premium,premium,,flagged – tagged with premium_status column,Missing premium. Imputation not applied without justification. Rows included in cleaned file with tag.
+31,POL00032,missing_premium,premium,,flagged – tagged with premium_status column,Missing premium. Imputation not applied without justification. Rows included in cleaned file with tag.
+35,POL00036,missing_premium,premium,,flagged – tagged with premium_status column,Missing premium. Imputation not applied without justification. Rows included in cleaned file with tag.
+53,POL00054,missing_premium,premium,,flagged – tagged with premium_status column,Missing premium. Imputation not applied without justification. Rows included in cleaned file with tag.
+78,POL00079,missing_premium,premium,,flagged – tagged with premium_status column,Missing premium. Imputation not applied without justification. Rows included in cleaned file with tag.
+88,POL00089,missing_premium,premium,,flagged – tagged with premium_status column,Missing premium. Imputation not applied without justification. Rows included in cleaned file with tag.
+102,POL00103,missing_premium,premium,,flagged – tagged with premium_status column,Missing premium. Imputation not applied without justification. Rows included in cleaned file with tag.
+118,POL00119,missing_premium,premium,,flagged – tagged with premium_status column,Missing premium. Imputation not applied without justification. Rows included in cleaned file with tag.
+120,POL00121,missing_premium,premium,,flagged – tagged with premium_status column,Missing premium. Imputation not applied without justification. Rows included in cleaned file with tag.
+141,POL00142,missing_premium,premium,,flagged – tagged with premium_status column,Missing premium. Imputation not applied without justification. Rows included in cleaned file with tag.
+45,POL00046,impossible_date_sequence,claim_date / policy_start,2022-09-30 00:00:00 / 2022-11-07 00:00:00,flagged – not modified,Claim date precedes policy start. Possible backdating or data entry error.
+168,POL00169,impossible_date_sequence,claim_date / policy_start,2019-07-26 00:00:00 / 2019-09-03 00:00:00,flagged – not modified,Claim date precedes policy start. Possible backdating or data entry error.
+174,POL00175,impossible_date_sequence,claim_date / policy_start,2021-06-10 00:00:00 / 2021-06-25 00:00:00,flagged – not modified,Claim date precedes policy start. Possible backdating or data entry error.

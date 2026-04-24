@@ -1,0 +1,12 @@
+issue_type,field,summary_value,computed_value,difference,note
+regional_total_mismatch,revenue | region=North,963439.3,1975963.12,1012523.82,Summary and row-level totals differ by 1012523.82. Investigate before citing.
+regional_total_mismatch,revenue | region=South,1060199.68,2214823.72,1154624.04,Summary and row-level totals differ by 1154624.04. Investigate before citing.
+regional_total_mismatch,revenue | region=East,1231418.08,2427722.83,1196304.75,Summary and row-level totals differ by 1196304.75. Investigate before citing.
+regional_total_mismatch,revenue | region=West,735783.61,1652200.58,916416.97,Summary and row-level totals differ by 916416.97. Investigate before citing.
+regional_total_mismatch,revenue | region=Central,1042325.68,1927688.69,885363.01,Summary and row-level totals differ by 885363.01. Investigate before citing.
+regional_total_mismatch,revenue | region=North,1065123.82,1975963.12,910839.3,Summary and row-level totals differ by 910839.3. Investigate before citing.
+regional_total_mismatch,revenue | region=South,1154624.04,2214823.72,1060199.68,Summary and row-level totals differ by 1060199.68. Investigate before citing.
+regional_total_mismatch,revenue | region=East,1196304.75,2427722.83,1231418.08,Summary and row-level totals differ by 1231418.08. Investigate before citing.
+regional_total_mismatch,revenue | region=West,916416.97,1652200.58,735783.61,Summary and row-level totals differ by 735783.61. Investigate before citing.
+regional_total_mismatch,revenue | region=Central,885363.01,1927688.69,1042325.68,Summary and row-level totals differ by 1042325.68. Investigate before citing.
+grand_total_mismatch,total_revenue,10250998.94,10198398.94,-52600.0,Grand total differs by 52600.0. Source of discrepancy unclear.

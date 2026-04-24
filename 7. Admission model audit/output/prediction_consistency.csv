@@ -1,0 +1,2 @@
+applicant_1,applicant_2,outcome_1,outcome_2,prob_1,prob_2,note
+APP0089,APP0205,0,1,0.465,0.555,Near-identical profiles by binned features with different predicted outcomes. Likely near decision boundary.

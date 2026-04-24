@@ -1,0 +1,47 @@
+applicant_id,issue_type,feature,value,expected,note
+APP0043,out_of_range,gpa,4.76,"[0.0, 4.0]",Value 4.76 is outside the expected range for gpa. May be a data entry error or unit mismatch.
+APP0114,out_of_range,gpa,4.4,"[0.0, 4.0]",Value 4.4 is outside the expected range for gpa. May be a data entry error or unit mismatch.
+APP0120,out_of_range,gpa,4.47,"[0.0, 4.0]",Value 4.47 is outside the expected range for gpa. May be a data entry error or unit mismatch.
+APP0148,out_of_range,gpa,4.68,"[0.0, 4.0]",Value 4.68 is outside the expected range for gpa. May be a data entry error or unit mismatch.
+APP0172,out_of_range,gpa,4.63,"[0.0, 4.0]",Value 4.63 is outside the expected range for gpa. May be a data entry error or unit mismatch.
+APP0240,out_of_range,gpa,4.43,"[0.0, 4.0]",Value 4.43 is outside the expected range for gpa. May be a data entry error or unit mismatch.
+APP0292,out_of_range,gpa,4.4,"[0.0, 4.0]",Value 4.4 is outside the expected range for gpa. May be a data entry error or unit mismatch.
+APP0312,out_of_range,gpa,4.13,"[0.0, 4.0]",Value 4.13 is outside the expected range for gpa. May be a data entry error or unit mismatch.
+APP0319,out_of_range,gpa,4.11,"[0.0, 4.0]",Value 4.11 is outside the expected range for gpa. May be a data entry error or unit mismatch.
+APP0331,out_of_range,gpa,4.69,"[0.0, 4.0]",Value 4.69 is outside the expected range for gpa. May be a data entry error or unit mismatch.
+APP0334,out_of_range,gpa,4.29,"[0.0, 4.0]",Value 4.29 is outside the expected range for gpa. May be a data entry error or unit mismatch.
+APP0365,out_of_range,gpa,4.46,"[0.0, 4.0]",Value 4.46 is outside the expected range for gpa. May be a data entry error or unit mismatch.
+APP0159,out_of_range,test_score,1737.0,"[0, 1600]",Value 1737.0 is outside the expected range for test_score. May be a data entry error or unit mismatch.
+APP0243,out_of_range,test_score,1725.0,"[0, 1600]",Value 1725.0 is outside the expected range for test_score. May be a data entry error or unit mismatch.
+APP0262,out_of_range,test_score,1655.0,"[0, 1600]",Value 1655.0 is outside the expected range for test_score. May be a data entry error or unit mismatch.
+APP0301,out_of_range,test_score,1604.0,"[0, 1600]",Value 1604.0 is outside the expected range for test_score. May be a data entry error or unit mismatch.
+APP0376,out_of_range,test_score,1707.0,"[0, 1600]",Value 1707.0 is outside the expected range for test_score. May be a data entry error or unit mismatch.
+APP0409,out_of_range,test_score,1745.0,"[0, 1600]",Value 1745.0 is outside the expected range for test_score. May be a data entry error or unit mismatch.
+APP0424,out_of_range,test_score,1742.0,"[0, 1600]",Value 1742.0 is outside the expected range for test_score. May be a data entry error or unit mismatch.
+APP0500,out_of_range,test_score,1666.0,"[0, 1600]",Value 1666.0 is outside the expected range for test_score. May be a data entry error or unit mismatch.
+APP0042,missing_value,interview_score,,non-null,"Missing interview_score. If this feature is used in the model, the prediction for this record may be unreliable."
+APP0045,missing_value,interview_score,,non-null,"Missing interview_score. If this feature is used in the model, the prediction for this record may be unreliable."
+APP0136,missing_value,interview_score,,non-null,"Missing interview_score. If this feature is used in the model, the prediction for this record may be unreliable."
+APP0178,missing_value,interview_score,,non-null,"Missing interview_score. If this feature is used in the model, the prediction for this record may be unreliable."
+APP0200,missing_value,interview_score,,non-null,"Missing interview_score. If this feature is used in the model, the prediction for this record may be unreliable."
+APP0305,missing_value,interview_score,,non-null,"Missing interview_score. If this feature is used in the model, the prediction for this record may be unreliable."
+APP0351,missing_value,interview_score,,non-null,"Missing interview_score. If this feature is used in the model, the prediction for this record may be unreliable."
+APP0383,missing_value,interview_score,,non-null,"Missing interview_score. If this feature is used in the model, the prediction for this record may be unreliable."
+APP0387,missing_value,interview_score,,non-null,"Missing interview_score. If this feature is used in the model, the prediction for this record may be unreliable."
+APP0394,missing_value,interview_score,,non-null,"Missing interview_score. If this feature is used in the model, the prediction for this record may be unreliable."
+APP0497,missing_value,interview_score,,non-null,"Missing interview_score. If this feature is used in the model, the prediction for this record may be unreliable."
+APP0051,encoding_mismatch,department,Natural Sciences,"['Engineering', 'Science', 'Arts', 'Business', 'Law']",Value 'Natural Sciences' was not present in training data. Model may handle this incorrectly or default to a zero encoding.
+APP0084,encoding_mismatch,department,Nat. Science,"['Engineering', 'Science', 'Arts', 'Business', 'Law']",Value 'Nat. Science' was not present in training data. Model may handle this incorrectly or default to a zero encoding.
+APP0106,encoding_mismatch,department,Nat. Science,"['Engineering', 'Science', 'Arts', 'Business', 'Law']",Value 'Nat. Science' was not present in training data. Model may handle this incorrectly or default to a zero encoding.
+APP0121,encoding_mismatch,department,Natural Sciences,"['Engineering', 'Science', 'Arts', 'Business', 'Law']",Value 'Natural Sciences' was not present in training data. Model may handle this incorrectly or default to a zero encoding.
+APP0125,encoding_mismatch,department,Natural Sciences,"['Engineering', 'Science', 'Arts', 'Business', 'Law']",Value 'Natural Sciences' was not present in training data. Model may handle this incorrectly or default to a zero encoding.
+APP0130,encoding_mismatch,department,Nat. Science,"['Engineering', 'Science', 'Arts', 'Business', 'Law']",Value 'Nat. Science' was not present in training data. Model may handle this incorrectly or default to a zero encoding.
+APP0156,encoding_mismatch,department,Nat. Science,"['Engineering', 'Science', 'Arts', 'Business', 'Law']",Value 'Nat. Science' was not present in training data. Model may handle this incorrectly or default to a zero encoding.
+APP0217,encoding_mismatch,department,Natural Sciences,"['Engineering', 'Science', 'Arts', 'Business', 'Law']",Value 'Natural Sciences' was not present in training data. Model may handle this incorrectly or default to a zero encoding.
+APP0229,encoding_mismatch,department,Natural Sciences,"['Engineering', 'Science', 'Arts', 'Business', 'Law']",Value 'Natural Sciences' was not present in training data. Model may handle this incorrectly or default to a zero encoding.
+APP0258,encoding_mismatch,department,Nat. Science,"['Engineering', 'Science', 'Arts', 'Business', 'Law']",Value 'Nat. Science' was not present in training data. Model may handle this incorrectly or default to a zero encoding.
+APP0295,encoding_mismatch,department,Nat. Science,"['Engineering', 'Science', 'Arts', 'Business', 'Law']",Value 'Nat. Science' was not present in training data. Model may handle this incorrectly or default to a zero encoding.
+APP0456,encoding_mismatch,department,Natural Sciences,"['Engineering', 'Science', 'Arts', 'Business', 'Law']",Value 'Natural Sciences' was not present in training data. Model may handle this incorrectly or default to a zero encoding.
+APP0487,encoding_mismatch,department,Natural Sciences,"['Engineering', 'Science', 'Arts', 'Business', 'Law']",Value 'Natural Sciences' was not present in training data. Model may handle this incorrectly or default to a zero encoding.
+APP0491,encoding_mismatch,department,Nat. Science,"['Engineering', 'Science', 'Arts', 'Business', 'Law']",Value 'Nat. Science' was not present in training data. Model may handle this incorrectly or default to a zero encoding.
+APP0494,encoding_mismatch,department,Nat. Science,"['Engineering', 'Science', 'Arts', 'Business', 'Law']",Value 'Nat. Science' was not present in training data. Model may handle this incorrectly or default to a zero encoding.

@@ -1,0 +1,67 @@
+contract_id,conflict_type,field,source_a_value,source_b_value,resolution
+CTR0075,status_conflict,contract_status,active,expired,unresolved – reviewer must determine correct status
+CTR0073,status_conflict,contract_status,active,expired,unresolved – reviewer must determine correct status
+CTR0069,status_conflict,contract_status,active,expired,unresolved – reviewer must determine correct status
+CTR0078,status_conflict,contract_status,active,expired,unresolved – reviewer must determine correct status
+CTR0066,status_conflict,contract_status,active,expired,unresolved – reviewer must determine correct status
+CTR0079,status_conflict,contract_status,active,expired,unresolved – reviewer must determine correct status
+CTR0074,status_conflict,contract_status,active,expired,unresolved – reviewer must determine correct status
+CTR0076,status_conflict,contract_status,active,expired,unresolved – reviewer must determine correct status
+CTR0067,status_conflict,contract_status,active,expired,unresolved – reviewer must determine correct status
+CTR0072,status_conflict,contract_status,active,expired,unresolved – reviewer must determine correct status
+CTR0070,status_conflict,contract_status,active,expired,unresolved – reviewer must determine correct status
+CTR0077,status_conflict,contract_status,active,expired,unresolved – reviewer must determine correct status
+CTR0071,status_conflict,contract_status,active,expired,unresolved – reviewer must determine correct status
+CTR0068,status_conflict,contract_status,active,expired,unresolved – reviewer must determine correct status
+CTR0080,status_conflict,contract_status,active,expired,unresolved – reviewer must determine correct status
+CTR0075,field_value_conflict,contract_value,123029.55,331100.6,unresolved – reviewer must determine correct value
+CTR0075,field_value_conflict,start_date,2019-02-25,2019-02-02,unresolved – reviewer must determine correct value
+CTR0075,field_value_conflict,end_date,2019-09-10,2019-08-09,unresolved – reviewer must determine correct value
+CTR0073,field_value_conflict,contract_value,139710.46,481364.95,unresolved – reviewer must determine correct value
+CTR0073,field_value_conflict,start_date,2022-05-02,2021-07-05,unresolved – reviewer must determine correct value
+CTR0073,field_value_conflict,end_date,2025-03-17,2023-04-08,unresolved – reviewer must determine correct value
+CTR0069,field_value_conflict,contract_value,89777.42,468181.26,unresolved – reviewer must determine correct value
+CTR0069,field_value_conflict,start_date,2022-11-02,2020-03-13,unresolved – reviewer must determine correct value
+CTR0069,field_value_conflict,end_date,2024-11-19,2021-10-13,unresolved – reviewer must determine correct value
+CTR0078,field_value_conflict,contract_value,177532.62,315852.55,unresolved – reviewer must determine correct value
+CTR0078,field_value_conflict,start_date,2019-09-24,2020-06-12,unresolved – reviewer must determine correct value
+CTR0078,field_value_conflict,end_date,2022-08-27,2022-06-03,unresolved – reviewer must determine correct value
+CTR0066,field_value_conflict,contract_value,473694.56,326614.41,unresolved – reviewer must determine correct value
+CTR0066,field_value_conflict,start_date,2021-09-21,2021-08-23,unresolved – reviewer must determine correct value
+CTR0066,field_value_conflict,end_date,2023-09-20,2022-10-10,unresolved – reviewer must determine correct value
+CTR0079,field_value_conflict,contract_value,280029.25,414812.2,unresolved – reviewer must determine correct value
+CTR0079,field_value_conflict,start_date,2022-11-23,2020-12-10,unresolved – reviewer must determine correct value
+CTR0079,field_value_conflict,end_date,2025-07-17,2022-11-23,unresolved – reviewer must determine correct value
+CTR0074,field_value_conflict,contract_value,106476.17,151639.05,unresolved – reviewer must determine correct value
+CTR0074,field_value_conflict,start_date,2021-12-29,2020-08-07,unresolved – reviewer must determine correct value
+CTR0074,field_value_conflict,end_date,2023-07-21,2022-10-17,unresolved – reviewer must determine correct value
+CTR0076,field_value_conflict,contract_value,64971.96,10689.69,unresolved – reviewer must determine correct value
+CTR0076,field_value_conflict,start_date,2021-12-15,2019-08-17,unresolved – reviewer must determine correct value
+CTR0076,field_value_conflict,end_date,2023-01-26,2020-11-20,unresolved – reviewer must determine correct value
+CTR0067,field_value_conflict,contract_value,269119.1,347839.4,unresolved – reviewer must determine correct value
+CTR0067,field_value_conflict,start_date,2019-12-17,2022-03-12,unresolved – reviewer must determine correct value
+CTR0067,field_value_conflict,end_date,2021-04-12,2024-09-11,unresolved – reviewer must determine correct value
+CTR0072,field_value_conflict,contract_value,412224.68,503189.99,unresolved – reviewer must determine correct value
+CTR0072,field_value_conflict,start_date,2022-11-13,2020-10-26,unresolved – reviewer must determine correct value
+CTR0072,field_value_conflict,end_date,2023-06-29,2022-03-10,unresolved – reviewer must determine correct value
+CTR0070,field_value_conflict,contract_value,312574.48,191890.39,unresolved – reviewer must determine correct value
+CTR0070,field_value_conflict,start_date,2022-09-17,2019-12-22,unresolved – reviewer must determine correct value
+CTR0070,field_value_conflict,end_date,2023-04-09,2021-11-06,unresolved – reviewer must determine correct value
+CTR0077,field_value_conflict,contract_value,13657.27,72988.46,unresolved – reviewer must determine correct value
+CTR0077,field_value_conflict,start_date,2022-10-17,2021-02-19,unresolved – reviewer must determine correct value
+CTR0077,field_value_conflict,end_date,2023-06-18,2023-02-04,unresolved – reviewer must determine correct value
+CTR0071,field_value_conflict,contract_value,213550.5,371276.58,unresolved – reviewer must determine correct value
+CTR0071,field_value_conflict,start_date,2019-06-04,2020-08-29,unresolved – reviewer must determine correct value
+CTR0071,field_value_conflict,end_date,2021-10-04,2023-06-14,unresolved – reviewer must determine correct value
+CTR0068,field_value_conflict,contract_value,203074.1,398511.82,unresolved – reviewer must determine correct value
+CTR0068,field_value_conflict,start_date,2020-02-25,2019-08-01,unresolved – reviewer must determine correct value
+CTR0068,field_value_conflict,end_date,2021-05-19,2021-04-03,unresolved – reviewer must determine correct value
+CTR0080,field_value_conflict,contract_value,308195.88,395224.02,unresolved – reviewer must determine correct value
+CTR0080,field_value_conflict,start_date,2021-12-25,2019-03-05,unresolved – reviewer must determine correct value
+CTR0080,field_value_conflict,end_date,2024-04-29,2020-03-21,unresolved – reviewer must determine correct value
+CTR0126,orphaned_amendment,contract_id,not in any contract export,present in amendments,"unresolved – possible deletion, ID mismatch, or data error"
+CTR0122,orphaned_amendment,contract_id,not in any contract export,present in amendments,"unresolved – possible deletion, ID mismatch, or data error"
+CTR0123,orphaned_amendment,contract_id,not in any contract export,present in amendments,"unresolved – possible deletion, ID mismatch, or data error"
+CTR0121,orphaned_amendment,contract_id,not in any contract export,present in amendments,"unresolved – possible deletion, ID mismatch, or data error"
+CTR0124,orphaned_amendment,contract_id,not in any contract export,present in amendments,"unresolved – possible deletion, ID mismatch, or data error"
+CTR0125,orphaned_amendment,contract_id,not in any contract export,present in amendments,"unresolved – possible deletion, ID mismatch, or data error"
